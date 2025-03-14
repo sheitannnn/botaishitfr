@@ -1,0 +1,10 @@
+discord.py-self
+colorama
+curl_cffi
+httpx
+asyncio
+python-dotenv
+pyYAML
+requests
+groq
+openai
